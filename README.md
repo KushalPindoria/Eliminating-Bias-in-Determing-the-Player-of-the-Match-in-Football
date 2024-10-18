@@ -17,5 +17,6 @@ Data Analysis: Microsoft Excel (for datasets and statistical analysis)
 Linear Programming: Applied in determining the optimal player contributions based on performance metrics
 
 Applications:
+
 This model offers enhanced insights for coaches, scouts, and analysts to make informed decisions on player selection, team tactics, and scouting.
 
